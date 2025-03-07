@@ -1,0 +1,83 @@
+{
+    "arquivo_original": "respostas_recorte_coluna3_4.json",
+    "total_questoes": 15,
+    "acertos": 5,
+    "erros": 10,
+    "detalhes": {
+        "46": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "B",
+            "correta": false
+        },
+        "47": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "A",
+            "correta": false
+        },
+        "48": {
+            "resposta_aluno": "B",
+            "resposta_correta": "B",
+            "correta": true
+        },
+        "49": {
+            "resposta_aluno": "C",
+            "resposta_correta": "C",
+            "correta": true
+        },
+        "50": {
+            "resposta_aluno": "B",
+            "resposta_correta": "B",
+            "correta": true
+        },
+        "51": {
+            "resposta_aluno": "C",
+            "resposta_correta": "C",
+            "correta": true
+        },
+        "52": {
+            "resposta_aluno": "D",
+            "resposta_correta": "D",
+            "correta": true
+        },
+        "53": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "A",
+            "correta": false
+        },
+        "54": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "C",
+            "correta": false
+        },
+        "55": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "E",
+            "correta": false
+        },
+        "56": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "B",
+            "correta": false
+        },
+        "57": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "A",
+            "correta": false
+        },
+        "58": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "D",
+            "correta": false
+        },
+        "59": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "C",
+            "correta": false
+        },
+        "60": {
+            "resposta_aluno": "N/A",
+            "resposta_correta": "E",
+            "correta": false
+        }
+    }
+}

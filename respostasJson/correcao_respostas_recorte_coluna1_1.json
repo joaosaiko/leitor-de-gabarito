@@ -1,0 +1,83 @@
+{
+    "arquivo_original": "respostas_recorte_coluna1_1.json",
+    "total_questoes": 15,
+    "acertos": 15,
+    "erros": 0,
+    "detalhes": {
+        "1": {
+            "resposta_aluno": "A",
+            "resposta_correta": "A",
+            "correta": true
+        },
+        "2": {
+            "resposta_aluno": "B",
+            "resposta_correta": "B",
+            "correta": true
+        },
+        "3": {
+            "resposta_aluno": "C",
+            "resposta_correta": "C",
+            "correta": true
+        },
+        "4": {
+            "resposta_aluno": "D",
+            "resposta_correta": "D",
+            "correta": true
+        },
+        "5": {
+            "resposta_aluno": "E",
+            "resposta_correta": "E",
+            "correta": true
+        },
+        "6": {
+            "resposta_aluno": "D",
+            "resposta_correta": "D",
+            "correta": true
+        },
+        "7": {
+            "resposta_aluno": "C",
+            "resposta_correta": "C",
+            "correta": true
+        },
+        "8": {
+            "resposta_aluno": "B",
+            "resposta_correta": "B",
+            "correta": true
+        },
+        "9": {
+            "resposta_aluno": "A",
+            "resposta_correta": "A",
+            "correta": true
+        },
+        "10": {
+            "resposta_aluno": "B",
+            "resposta_correta": "B",
+            "correta": true
+        },
+        "11": {
+            "resposta_aluno": "C",
+            "resposta_correta": "C",
+            "correta": true
+        },
+        "12": {
+            "resposta_aluno": "D",
+            "resposta_correta": "D",
+            "correta": true
+        },
+        "13": {
+            "resposta_aluno": "E",
+            "resposta_correta": "E",
+            "correta": true
+        },
+        "14": {
+            "resposta_aluno": "D",
+            "resposta_correta": "D",
+            "correta": true
+        },
+        "15": {
+            "resposta_aluno": "C",
+            "resposta_correta": "C",
+            "correta": true
+        }
+    }
+}
