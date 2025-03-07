@@ -6,10 +6,10 @@ import extrairGabarito as exG
 from tkinter import Tk, filedialog
 import json
 
-PASTA_RECORTES = "gabritoDev ideias/recorteGAB"
+PASTA_RECORTES = "recorteGAB"
 os.makedirs(PASTA_RECORTES, exist_ok=True)  # Garante que a pasta já exista
 
-PASTA_JSON = "gabritoDev ideias/respostasJson"
+PASTA_JSON = "respostasJson"
 os.makedirs(PASTA_JSON, exist_ok=True)  # Garante que a pasta já exista
 
 PASTA_CORRECOES = PASTA_JSON
